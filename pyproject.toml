@@ -11,6 +11,7 @@ repository = "https://github.com/rmndrs89/pypkgs_tutorial"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.3"
 
 [tool.poetry.dev-dependencies]
 
