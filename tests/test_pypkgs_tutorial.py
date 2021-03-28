@@ -1,0 +1,2 @@
+from pypkgs_tutorial import __version__
+from pypkgs_tutorial import pypkgs_tutorial

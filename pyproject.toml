@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pypkgs_tutorial"
+version = "0.1.0"
+description = "A tutorial on how to turn Python code into a distributable package."
+authors = ["Robbin Romijnders"]
+license = "MIT"
+readme = "README.md"
+documentation = "https://pypkgs_tutorial.readthedocs.io/en/latest/"
+homepage = "https://github.com/rmndrs89/pypkgs_tutorial"
+repository = "https://github.com/rmndrs89/pypkgs_tutorial"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
